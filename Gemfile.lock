@@ -157,7 +157,7 @@ GEM
       signet (>= 0.16, < 2.a)
     graphiql-rails (1.10.4)
       railties
-    graphql (2.4.15)
+    graphql (2.5.2)
       base64
       fiber-storage
       logger
@@ -193,7 +193,7 @@ GEM
       zeitwerk (>= 2.6.18, < 3.0)
     language_server-protocol (3.17.0.4)
     lint_roller (1.1.0)
-    logger (1.6.6)
+    logger (1.7.0)
     loofah (2.24.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
@@ -441,7 +441,7 @@ DEPENDENCIES
   google-api-client
   googleauth
   graphiql-rails
-  graphql (~> 2.4)
+  graphql (~> 2.5)
   importmap-rails
   jbuilder
   kamal
